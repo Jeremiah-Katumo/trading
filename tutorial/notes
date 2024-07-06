@@ -1,0 +1,28 @@
+
+## Lifecycle Methods
+1) def initialize
+2) def on_trading_iteration
+3) def before_market_opens
+4) def before_starting_trading
+5) def before_market_closes
+6) def after_market_closes
+7) def on_abrupt_closing
+8) def on_bot_crash
+9) def trace_stats
+10) def on_new_order
+11) def on_partially_filled_order
+12) def on_filled_order
+13) def on_canceled_order
+14) def on_parameters_updated
+
+## Strategy Methods
+1) Order Management
+2) Account Management
+3) Data
+4) Chart Functions
+5) Parameters
+6) Options
+7) DateTime
+8) Miscellaneous
+
+## 
