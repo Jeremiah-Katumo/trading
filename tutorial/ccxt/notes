@@ -1,0 +1,20 @@
+## Public APIs include the following:
+instruments/trading pairs
+price feeds (exchange rates)
+order books (L1, L2, L3...)
+trade history (closed orders, transactions, executions)
+tickers (spot / 24h price)
+OHLCV series for charting
+other public endpoints
+
+## Private APIs allow the following: (Account specific information)
+manage personal account info
+query account balances
+trade by making market and limit orders
+create deposit addresses and fund accounts
+request withdrawal of fiat and crypto funds
+query personal open / closed orders
+query positions in margin/leverage trading
+get ledger history
+transfer funds between accounts
+use merchant services
